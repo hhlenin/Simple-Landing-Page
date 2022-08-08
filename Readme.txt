@@ -1,0 +1,1 @@
+Made a simple landing page using Bootstrap,Owlcarousel, Font Awesome and custom CSS
